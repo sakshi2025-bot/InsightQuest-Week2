@@ -1,0 +1,7 @@
+# requirements.txt
+pandas
+numpy
+streamlit
+statsmodels
+matplotlib 
+seaborn 
